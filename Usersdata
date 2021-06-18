@@ -1,0 +1,37 @@
+{
+
+  "Usersdata": [
+      
+      {
+          "id" : 1,
+          "Skillname" : "c-language",
+          "Rating" : 0.245867
+      },
+
+      {
+          "id" : 2,
+          "Skillname" : "c++",
+          "Rating" : 0.2876484
+      },
+
+      {
+          "id" : 3,
+          "Skillname" : "Html5",
+          "Rating" : 0.2457869
+      },
+
+      {
+          "id" : 4,
+          "Skillname" : "css3",
+          "Rating" : 0.287684
+      },
+
+      {
+          "id" : 5,
+          "Skillname" : "Javascript",
+          "Rating" : 0.2674584
+      }
+        
+  ]
+
+}
